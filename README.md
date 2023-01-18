@@ -1,2 +1,2 @@
 #README FILE
-# jan._git_example_repo 
+Example Project to make repo and commits
